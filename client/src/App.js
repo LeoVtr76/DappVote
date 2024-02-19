@@ -69,7 +69,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        User Account Address : {account}
+        Votre compte actuel :{" "}
+        <a href={`https://mumbai.polygonscan.com/address/${account[0]}`}>
+          Voir le compte
+        </a>
         <br />
         {state.contract ? (
           <Vote contract={state.contract} />
