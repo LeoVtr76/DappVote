@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/h@ps://leovtr76.github.io/DappVote/static/css/main.26892fd7.css",
-    "main.js": "/h@ps://leovtr76.github.io/DappVote/static/js/main.3f6e9ced.js",
-    "static/js/787.c4e7f8f9.chunk.js": "/h@ps://leovtr76.github.io/DappVote/static/js/787.c4e7f8f9.chunk.js",
-    "index.html": "/h@ps://leovtr76.github.io/DappVote/index.html",
-    "main.26892fd7.css.map": "/h@ps://leovtr76.github.io/DappVote/static/css/main.26892fd7.css.map",
-    "main.3f6e9ced.js.map": "/h@ps://leovtr76.github.io/DappVote/static/js/main.3f6e9ced.js.map",
-    "787.c4e7f8f9.chunk.js.map": "/h@ps://leovtr76.github.io/DappVote/static/js/787.c4e7f8f9.chunk.js.map"
+    "main.css": "/DappVote/static/css/main.26892fd7.css",
+    "main.js": "/DappVote/static/js/main.a4dcd1e1.js",
+    "static/js/592.599f76a2.chunk.js": "/DappVote/static/js/592.599f76a2.chunk.js",
+    "index.html": "/DappVote/index.html",
+    "main.26892fd7.css.map": "/DappVote/static/css/main.26892fd7.css.map",
+    "main.a4dcd1e1.js.map": "/DappVote/static/js/main.a4dcd1e1.js.map",
+    "592.599f76a2.chunk.js.map": "/DappVote/static/js/592.599f76a2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.26892fd7.css",
-    "static/js/main.3f6e9ced.js"
+    "static/js/main.a4dcd1e1.js"
   ]
 }
