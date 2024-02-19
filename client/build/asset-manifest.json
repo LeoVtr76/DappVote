@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/h@ps://leovtr76.github.io/DappVote/static/css/main.26892fd7.css",
+    "main.js": "/h@ps://leovtr76.github.io/DappVote/static/js/main.3f6e9ced.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/h@ps://leovtr76.github.io/DappVote/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/h@ps://leovtr76.github.io/DappVote/index.html",
+    "main.26892fd7.css.map": "/h@ps://leovtr76.github.io/DappVote/static/css/main.26892fd7.css.map",
+    "main.3f6e9ced.js.map": "/h@ps://leovtr76.github.io/DappVote/static/js/main.3f6e9ced.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/h@ps://leovtr76.github.io/DappVote/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26892fd7.css",
+    "static/js/main.3f6e9ced.js"
+  ]
+}
